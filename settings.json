@@ -1,4 +1,5 @@
 {
-    "editor.fontSize": 14,
-    "extensions.ignoreRecommendations": true
+    "editor.fontSize": 12,
+    "extensions.ignoreRecommendations": true,
+    "workbench.startupEditor": "newUntitledFile"
 }
