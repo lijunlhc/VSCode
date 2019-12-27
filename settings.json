@@ -2,5 +2,5 @@
     "editor.fontSize": 12,
     "extensions.ignoreRecommendations": true,
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "Solarized Dark"
+    "workbench.colorTheme": "Default Light+"
 }
