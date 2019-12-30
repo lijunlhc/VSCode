@@ -4,5 +4,8 @@
     "workbench.startupEditor": "newUntitledFile",
     "workbench.colorTheme": "Default Light+",
     "editor.minimap.enabled": false,
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "breadcrumbs.enabled": true,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false
 }
