@@ -1,11 +1,5 @@
 {
-    "editor.fontSize": 13,
+    "editor.fontSize": 14,
     "extensions.ignoreRecommendations": true,
     "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "Default Light+",
-    "editor.minimap.enabled": false,
-    "editor.wordWrap": "on",
-    "breadcrumbs.enabled": false,
-    "workbench.activityBar.visible": false,
-    "workbench.statusBar.visible": false
 }
