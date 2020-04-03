@@ -14,4 +14,3 @@
   - Visual Studio IntelliCode
 - Markdown All in One
 - markdownlint
-- SQL Server (mssql)
