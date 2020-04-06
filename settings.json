@@ -7,6 +7,7 @@
     "python.pythonPath": "/opt/anaconda3/bin/python",
     "python.jediEnabled": false,
     "python.dataScience.sendSelectionToInteractiveWindow": true,
-    "workbench.colorTheme": "Solarized Light",
+    "workbench.colorTheme": "Solarized Dark",
     "git.autofetch": true,
+    "terminal.integrated.shell.osx": "/bin/zsh",
 }
