@@ -1,13 +1,3 @@
 {
-    "editor.fontSize": 14,
-    "extensions.ignoreRecommendations": true,
-    "workbench.startupEditor": "newUntitledFile",
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.pythonPath": "/opt/anaconda3/bin/python",
-    "python.jediEnabled": false,
-    "python.dataScience.sendSelectionToInteractiveWindow": true,
-    "workbench.colorTheme": "Solarized Dark",
-    "git.autofetch": true,
-    "terminal.integrated.shell.osx": "/bin/zsh",
+    "editor.fontSize": 14
 }
